@@ -12,7 +12,8 @@
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rava&label=Profile%20views&color=0e75b6&style=flat" alt="rava" /> </p>
+<p align="left"> <img src="![image](https://github.com/ratanR07/ratanR07/assets/157063244/f75ca830-c25d-446f-b681-b2c87fd0891a)
+?username=rava&label=Profile%20views&color=0e75b6&style=flat" alt="rava" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rava" alt="rava" /></a> </p>
 
