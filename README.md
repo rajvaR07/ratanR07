@@ -1,4 +1,5 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+![image](https://github.com/ratanR07/ratanR07/assets/157063244/451ca628-c8c4-45dd-a112-2e602589d845)
+
 <h1 align="center">Hi 👋, I'm Ratan Biswakarmakar</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
