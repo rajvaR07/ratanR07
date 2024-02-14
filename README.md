@@ -1,4 +1,5 @@
-![image](https://github.com/ratanR07/ratanR07/assets/157063244/451ca628-c8c4-45dd-a112-2e602589d845)
+![image](https://github.com/ratanR07/ratanR07/assets/157063244/451ca628-c8c4-45dd-a112-2e602589d845),![image](https://github.com/ratanR07/ratanR07/assets/157063244/b9fcb29c-630e-4989-a607-5baaa3b42902)
+
 
 <h1 align="center">Hi 👋, I'm Ratan Biswakarmakar</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
